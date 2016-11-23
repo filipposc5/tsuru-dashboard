@@ -15,7 +15,7 @@ DATABASES = {
     }
 }
 
-TIME_ZONE = 'America/Sao_Paulo'
+TIME_ZONE = 'UTC'
 
 LANGUAGE_CODE = 'en-us'
 
